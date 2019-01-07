@@ -12,7 +12,7 @@
               "garage": {
                 "username": "$CONTAINER_REGISTRY_USERNAME_hancommds",
                 "password": "$CONTAINER_REGISTRY_PASSWORD_hancommds",
-                "address": "hancommds.azurecr.io"
+                "address": ""
               }
             }
           }
